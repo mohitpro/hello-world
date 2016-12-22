@@ -1,2 +1,1 @@
-# hello-world
-starting a repository for first time
+hello there I want to be good at programming.
